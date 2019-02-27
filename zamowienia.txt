@@ -1,0 +1,7 @@
+telefon;200;CANCELED;
+pralka;320;CANCELED;
+telefon;555;CANCELED;
+biurko;123;SHIPPED;
+grzejnik;1900;COMPLETED;
+wanna;1323;CANCELED;
+szafka;1452;COMPLETED;
